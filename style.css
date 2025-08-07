@@ -1,0 +1,22 @@
+ h1, h2, h3 {
+                background-color: black;
+                color: grey;
+                margin: 0;
+            }
+            h1 {
+                color: coral ;
+                /* color: yellow; */
+                font-size: 70px;
+            }
+            .important {
+                color: red;
+                background: purple
+            }
+            .uppercase {
+                text-transform: uppercase;
+                color: hotpink;
+                background: black;
+            }
+            #the-one{
+                color: white;
+            }
